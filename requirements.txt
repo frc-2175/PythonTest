@@ -1,0 +1,3 @@
+pyfrc==2019.1.0
+robotpy-ctre==2019.3.2
+robotpy-navx==2019.0.1

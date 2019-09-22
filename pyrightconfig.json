@@ -1,0 +1,14 @@
+{
+    "include": [
+        "src"
+    ],
+    "ignore": [
+        ".typestubs"
+    ],
+    "typingsPath": ".typestubs",
+
+    "pythonVersion": "3.7",
+    "pythonPlatform": "Linux",
+
+    "reportMissingTypeStubs": true
+}
